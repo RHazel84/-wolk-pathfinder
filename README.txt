@@ -1,0 +1,1 @@
+Open index.html to play offline. At the ending, Share my results uses the device share menu when supported. Invite someone to play shares a link only when the game is hosted at an HTTPS website. Otherwise send this ZIP to someone, or publish index.html on a static web host. No results are uploaded or stored.
